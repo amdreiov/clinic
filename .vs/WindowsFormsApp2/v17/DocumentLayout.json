@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\syper\\source\\repos\\windowsformsapp2\\windowsformsapp2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\windowsformsapp2\\newlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\newlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\windowsformsapp2\\histories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\histories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\windowsformsapp2\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\windowsformsapp2\\singin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\singin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\windowsformsapp2\\newlisttodoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\newlisttodoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\windowsformsapp2\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\windowsformsapp2\\work schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3E0A50-040A-4086-A563-0741833F8957}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\work schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Class1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Class1.cs",
+              "ToolTip": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Class1.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Class1.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAkwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:43:36.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwFgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:46:44.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SingIn.cs",
+              "DocumentMoniker": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\SingIn.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\SingIn.cs",
+              "ToolTip": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\SingIn.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\SingIn.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAA8wLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:17:50.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Patients.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Patients.cs",
+              "ToolTip": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Patients.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Patients.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAA3wAwBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:16:29.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Histories.cs",
+              "DocumentMoniker": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Histories.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Histories.cs",
+              "ToolTip": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Histories.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Histories.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAYwPwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:49:29.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewList.cs",
+              "DocumentMoniker": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\NewList.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\NewList.cs",
+              "ToolTip": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\NewList.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\NewList.cs",
+              "ViewState": "AgIAAJECAAAAAAAAAAAQwCcDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:47:54.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewListToDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\NewListToDoctor.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\NewListToDoctor.cs",
+              "ToolTip": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\NewListToDoctor.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\NewListToDoctor.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:35:14.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Password.cs",
+              "DocumentMoniker": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Password.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Password.cs",
+              "ToolTip": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Password.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Password.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAwNoAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:38:00.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Work schedule.cs",
+              "DocumentMoniker": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Work schedule.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Work schedule.cs",
+              "ToolTip": "C:\\Users\\syper\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Work schedule.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Work schedule.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAgwMEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:29:44.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

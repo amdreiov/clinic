@@ -1,0 +1,13 @@
+*.log        # Логи
+*.tmp        # Временные файлы
+*.bak        # Резервные копии
+.vscode/     # Конфигурации Visual Studio Code
+.idea/       # Конфигурации IntelliJ IDEA или WebStorm
+.DS_Store    # Файл, создаваемый macOS
+node_modules/  # Для проектов на Node.js
+vendor/        # Для проектов с зависимостями в папке vendor
+*.exe          # Для скомпилированных .exe файлов
+*.o            # Объектные файлы
+*.out          # Файлы вывода
+*.swp         # Файлы временных сессий vi
+Thumbs.db     # Файл, создаваемый Windows для миниатюр
